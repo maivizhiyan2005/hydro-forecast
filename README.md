@@ -40,7 +40,7 @@ R² Score: 0.983
 ▶️ Run Locally
 Clone the repository
 
-git clone https://github.com/Naveenguru07/Smart-Hydro-Forecast.git
+git clone https:https://github.com/maivizhiyan2005?tab=projects
 Install dependencies
 
 pip install -r requirements.txt
@@ -54,7 +54,7 @@ https://smart-hydro-forecast-djjusxfed5xccp5ft6bpoq.streamlit.app
 Home Page
 Prediction Result
 👨‍💻 Developer
-Naveen Kumar
+Maivizhiyan
 
 B.Tech Information Technology
 
